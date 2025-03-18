@@ -1,0 +1,4 @@
+>>00:00 - Repaso de diagramas> Relaciones
+
+>>44:00 - Repaso de manejo de excepciones
+>>01:02:00 - Pila de llamadas (A métodos)
