@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+Aitor Zuazola
+aitorzuazola
+az288153@fi365.ort.edu.uy
+=======
+Aitor Zuazola
+aitorzuazola
+az288153@fi365.ort.edu.uy
+>>>>>>> 0a1606a1e0fb7fb560bad719118ae3f947dd1d25
